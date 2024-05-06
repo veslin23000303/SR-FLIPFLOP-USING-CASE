@@ -70,11 +70,12 @@ endmodule
 ~~~
 **RTL LOGIC FOR FLIPFLOPS**
 
-![324831741-fab24ca8-c21d-4645-9b9d-c27f816f5d8c](https://github.com/04Varsha/SR-FLIPFLOP-USING-CASE/assets/149035374/f817f5d0-690a-4a29-94b3-49be31452c3e)
+![WhatsApp Image 2024-05-06 at 05 41 48_893305fd](https://github.com/veslin23000303/SR-FLIPFLOP-USING-CASE/assets/151148539/dbc15e44-17af-41ed-8ae0-429c6911a433)
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![WhatsApp Image 2024-05-06 at 05 42 17_32e151aa](https://github.com/veslin23000303/SR-FLIPFLOP-USING-CASE/assets/151148539/e637fac3-87f0-41af-8ba9-cc4924e32fb8)
 
-![326252286-e4377eac-5212-4c7a-a46a-f957f37fefa9](https://github.com/04Varsha/SR-FLIPFLOP-USING-CASE/assets/149035374/39a45ba1-979e-410a-8c8a-32732cc9f832)
 
 **RESULTS**
 
